@@ -17,8 +17,5 @@
   "dependencies": {
     "canvas-confetti": "^1.9.3"
   },
-  "vite": {
-    "homepage": "https://github.com/tambonbon/virtual-gift-box"
-  }
-  
+  "homepage": "https://github.com/tambonbon/virtual-gift-box"
 }
